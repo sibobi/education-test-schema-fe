@@ -1,9 +1,9 @@
 Isilah data pribadi : 
 
-Nama : 
-Alamat Email: 
-Waktu Mulai :
-Waktu Selesai :
+Nama : Aditya Vajri Ramadhan
+Alamat Email: adityavajri@gmail.com
+Waktu Mulai : 12:26
+Waktu Selesai : 14:39
 
 CARA PENGERJAAN!!!
 
@@ -16,7 +16,7 @@ PERTANYAAN !!
 1. Kami mempunyai data array dengan data : 
 
     var data1 = [1, 1, 1, 2, 2, 4, 1, 1 ]
-    var data2 = [2, 1, 2, 2, 2, 8, 1, 1 ]
+    var data2 = [2, 1, 2, 2, 2, 8, 1, 1 ]   
     var data3 = [3, 3, 3, 3, 2, 4, 1, 1 ]
 
     - buatlah sebuah program untuk menampilkan banyak angka yang keluar
